@@ -1,0 +1,9 @@
+C:\Users\casper\Documents\Visual Studio 2019\Projects\IdentityCard\IdentityCard\bin\Debug\IdentityCard.exe.config
+C:\Users\casper\Documents\Visual Studio 2019\Projects\IdentityCard\IdentityCard\bin\Debug\IdentityCard.exe
+C:\Users\casper\Documents\Visual Studio 2019\Projects\IdentityCard\IdentityCard\bin\Debug\IdentityCard.pdb
+C:\Users\casper\Documents\Visual Studio 2019\Projects\IdentityCard\IdentityCard\obj\Debug\IdentityCard.Form1.resources
+C:\Users\casper\Documents\Visual Studio 2019\Projects\IdentityCard\IdentityCard\obj\Debug\IdentityCard.csproj.GenerateResource.cache
+C:\Users\casper\Documents\Visual Studio 2019\Projects\IdentityCard\IdentityCard\obj\Debug\IdentityCard.csproj.CoreCompileInputs.cache
+C:\Users\casper\Documents\Visual Studio 2019\Projects\IdentityCard\IdentityCard\obj\Debug\IdentityCard.exe
+C:\Users\casper\Documents\Visual Studio 2019\Projects\IdentityCard\IdentityCard\obj\Debug\IdentityCard.pdb
+C:\Users\casper\Documents\Visual Studio 2019\Projects\IdentityCard\IdentityCard\obj\Debug\IdentityCard.Properties.Resources.resources
